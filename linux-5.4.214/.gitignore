@@ -9,6 +9,9 @@
 #
 # Normal rules (sorted alphabetically)
 #
+
+#.object files
+*.object
 .*
 *.a
 *.asn1.[ch]
